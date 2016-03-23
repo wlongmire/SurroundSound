@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F0868F08-39D6-21C8-0229-07A40F352AB4}") = "SurroundSound", "Assembly-CSharp.csproj", "{4C288999-5E1A-2B91-58EF-48E511B35BD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C288999-5E1A-2B91-58EF-48E511B35BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C288999-5E1A-2B91-58EF-48E511B35BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C288999-5E1A-2B91-58EF-48E511B35BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C288999-5E1A-2B91-58EF-48E511B35BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
