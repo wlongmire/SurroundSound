@@ -45,8 +45,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\scripts\BeatData.cs" />
+     <Compile Include="Assets\scripts\MouseLook.cs" />
      <Compile Include="Assets\scripts\SpecAnalyzer.cs" />
+     <Compile Include="Assets\scripts\SpecRecorder.cs" />
+     <Compile Include="Assets\scripts\Utilities.cs" />
  <Reference Include="UnityEngine.Networking">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
